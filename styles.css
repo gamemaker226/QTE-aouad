@@ -1,0 +1,27 @@
+body {
+  background-color: #333;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#game-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#message {
+  font-size: 24px;
+  color: white;
+  background-color: black;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#qte-result {
+  margin-top: 20px;
+  font-size: 20px;
+  color: limegreen;
+}
